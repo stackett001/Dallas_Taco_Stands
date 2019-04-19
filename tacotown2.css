@@ -1,0 +1,57 @@
+
+h1 {
+  color: green;
+  font-size: 40px;
+  font-family: Georgia, serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+img {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+	border: 2px black solid;
+	padding: 10px;
+
+}
+
+h2 {color: black;
+  font-size: 24x;
+  font-family: Georgia, serif;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+  color: white;
+}
+
+ p{ 
+  	font-size:  14px;
+  	font-family: Arial, sans serif; 
+  	color: white;
+  }
+
+.card-img-top {
+  height: 300px;
+  width: 100%;
+}
+
+h3 {
+  color: red;
+  text-align: center;
+}
+h5 {
+  color:white;
+  text-align: center;
+  font-size: 18px;
+
+}
+
+.card-body {
+  height: 190px;
+ }
+
+body {
+  background-color: black;
+}
